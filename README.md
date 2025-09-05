@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6b3ca778-3b07-4a8c-8c3f-e3ef9f0026cf" alt="profile" width="200"/>
+  <img src="https://github.com/user-attachments/assets/e2ef4d74-0e57-4c63-a15d-275adb81b851" alt="profile" width="200"/>
 </p>
-
 <h1 align="center">Hi, I'm Swapnil 👋</h1>
 
 <p align="center">
